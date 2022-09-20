@@ -1,4 +1,4 @@
-Allows changing multiple monitors inputs with the execution of a single script from varrying systems. Current solutions include a powershell script for Windows devices and a bash script for M1 MacOS devices.
+Allows changing multiple monitors hardware settings such as osd inputs, resfresh rate, resolution, scaling, etc. with the execution of a single script from varrying systems. Current solutions include a powershell script for Windows devices and a bash script for M1 MacOS devices.
 
 PC requirements:
 ```
