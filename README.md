@@ -6,7 +6,7 @@ choco install controlmymonitor
 ```
 
 MacBook M1 requirements:
-https://github.com/waydabber/m1ddc
+- https://github.com/waydabber/m1ddc
 ```
 brew tap jakehilborn/jakehilborn && brew install displayplacer
 ```
